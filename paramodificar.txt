@@ -1,0 +1,6 @@
+al archivo index despues de modificar algo, lo guardas: control+s
+en git bush, te fijas si registra q hubo un cambio: git status -s
+luego subis el archivo al repositorio: git add index.html
+te fijas de nuevo: git status -s
+hecho es y si el archivo ya esta en el repositorio bien: git commit -m "agregue una linea mas al archivo"
+hecho ese paso y si te muestra los cambios, procedemos a subir y cambiar el archivo: git push origin main	
